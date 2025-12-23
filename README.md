@@ -1,4 +1,4 @@
-# Weather App By Kiran: A weather information application built uing OpenWeather API (openweathermap.org) and Laravel 10
+# Weather App By Kiran: A weather information application built using OpenWeather API (openweathermap.org) and Laravel 10
 
 ## About Weather App
 This is a web application developed using Laravel 10 and openweathermap.org API. <br>
@@ -11,7 +11,7 @@ This is a web application developed using Laravel 10 and openweathermap.org API.
 
 ## Application Requirements
 - Laravel version 10.*
-- You have to signup/login to openweathermap.org and create API Key under Settings section. Copy the API Key of OPENWEATHER_API_KEY option inside project folder: weather-app-kiran/config/app.php
+- You have to signup/login to openweathermap.org and create API Key under Settings section. Copy that API Key to OPENWEATHER_API_KEY option inside project folder: weather-app-kiran/config/app.php file
 - Configure/update .env and/or .htaccess as per your local environment setup
 
 ## Application Access:
