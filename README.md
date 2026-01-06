@@ -1,7 +1,7 @@
-# Weather App By Kiran: A weather information application built using OpenWeather API (openweathermap.org) and Laravel 10
+# Weather App By Kiran: A weather information application (REST API) built using OpenWeather API (openweathermap.org) and Laravel 10
 
 ## About Weather App
-This is a web application developed using Laravel 10 and openweathermap.org API. <br>
+This is a simplified weather information web application & REST API, developed using Laravel 10 and openweathermap.org API. <br>
 
 ## Application modules:
 - Home page having a form to query Current Weather/Weather Forecast using Location(City/Pincode).
